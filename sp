@@ -11,3 +11,8 @@ https://sharepoint.rackspace.com/how-to-start-using-powershell-with-sharepoint
 
 https://stackoverflow.com/questions/28467068/add-row-to-dataframe
 https://www.analyticsvidhya.com/blog/2017/03/beginners-guide-on-web-scraping-in-r-using-rvest-with-hands-on-knowledge/
+
+
+https://towardsdatascience.com/tidy-web-scraping-in-r-tutorial-and-resources-ac9f72b4fe47
+https://www.business-science.io/code-tools/2019/10/07/rvest-web-scraping.html
+https://smac-group.github.io/ds/web-scraping-in-r.html
