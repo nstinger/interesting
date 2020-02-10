@@ -10,3 +10,4 @@ https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/complete-basic-operat
 https://sharepoint.rackspace.com/how-to-start-using-powershell-with-sharepoint
 
 https://stackoverflow.com/questions/28467068/add-row-to-dataframe
+https://www.analyticsvidhya.com/blog/2017/03/beginners-guide-on-web-scraping-in-r-using-rvest-with-hands-on-knowledge/
