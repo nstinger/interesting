@@ -8,3 +8,5 @@ https://social.technet.microsoft.com/wiki/contents/articles/37686.sharepoint-onl
 https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/complete-basic-operations-using-sharepoint-rest-endpoints?redirectedfrom=MSDN
 
 https://sharepoint.rackspace.com/how-to-start-using-powershell-with-sharepoint
+
+https://stackoverflow.com/questions/28467068/add-row-to-dataframe
