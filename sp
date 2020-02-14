@@ -16,3 +16,5 @@ https://www.analyticsvidhya.com/blog/2017/03/beginners-guide-on-web-scraping-in-
 https://towardsdatascience.com/tidy-web-scraping-in-r-tutorial-and-resources-ac9f72b4fe47
 https://www.business-science.io/code-tools/2019/10/07/rvest-web-scraping.html
 https://smac-group.github.io/ds/web-scraping-in-r.html
+
+https://stackoverflow.com/questions/39086400/extracting-a-string-between-other-two-strings-in-r
