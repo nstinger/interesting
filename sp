@@ -18,3 +18,4 @@ https://www.business-science.io/code-tools/2019/10/07/rvest-web-scraping.html
 https://smac-group.github.io/ds/web-scraping-in-r.html
 
 https://stackoverflow.com/questions/39086400/extracting-a-string-between-other-two-strings-in-r
+https://stackoverflow.com/questions/33869557/can-i-improve-performance-of-this-regular-expression-further/33869801#33869801
